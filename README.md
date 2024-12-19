@@ -1,5 +1,5 @@
 # Excel-PowerPoint-
-Salary sheet
+#Salary sheet
 SN	Name	Date of Birth	Basic Salary	Retirement	House Rent	Medical Allowance	Travel Allowance	Tiffin	Increament	Gross Salary	GPF	Monthly Salary	Category		NEW
 1	Muhammad	3/18/2000	25971	3/31/2060	11686.95	1298.55	500	200	1298.55	40955.05	3895.65	37059.4	A+		11
 2	Abu Bakar	3/19/2000	22959	3/31/2060	10331.55	1147.95	500	200	1147.95	36286.45	3443.85	32842.6	A+		16
